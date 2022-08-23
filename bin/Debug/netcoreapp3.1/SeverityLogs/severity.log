@@ -1,0 +1,205 @@
+INFO  10:20:30 Application started. Press Ctrl+C to shut down.
+INFO  10:20:30 Application started. Press Ctrl+C to shut down.
+INFO  10:20:30 Hosting environment: Development
+INFO  10:20:30 Hosting environment: Development
+INFO  10:20:30 Content root path: D:\MyAspDotNetProjects\AuditSeverityModule
+INFO  10:20:30 Content root path: D:\MyAspDotNetProjects\AuditSeverityModule
+INFO  10:20:31  Http GET Request From: AuditSeverityController
+INFO  10:21:21  Http POST Request From: AuditSeverityController
+INFO  10:21:21  SeverityResponse Method of SeverityProvider Called 
+INFO  10:21:21  Response Method of SeverityRepo Called 
+INFO  10:21:32  Http POST Request From: AuditSeverityController
+INFO  10:21:32  SeverityResponse Method of SeverityProvider Called 
+INFO  10:21:32  Response Method of SeverityRepo Called 
+INFO  10:23:21 Application started. Press Ctrl+C to shut down.
+INFO  10:23:21 Application started. Press Ctrl+C to shut down.
+INFO  10:23:21 Hosting environment: Development
+INFO  10:23:21 Hosting environment: Development
+INFO  10:23:21 Content root path: C:\Users\suvin\Downloads\Mfpe\AuditSeverityModule
+INFO  10:23:21 Content root path: C:\Users\suvin\Downloads\Mfpe\AuditSeverityModule
+INFO  10:23:21  Http GET Request From: AuditSeverityController
+INFO  10:26:36  Http POST Request From: AuditSeverityController
+INFO  10:26:36  SeverityResponse Method of SeverityProvider Called 
+INFO  10:26:36  Response Method of SeverityRepo Called 
+INFO  10:11:59 Application started. Press Ctrl+C to shut down.
+INFO  10:11:59 Application started. Press Ctrl+C to shut down.
+INFO  10:11:59 Hosting environment: Development
+INFO  10:11:59 Hosting environment: Development
+INFO  10:11:59 Content root path: C:\Project\AuditManagementSystem\AuditSeverityModule
+INFO  10:11:59 Content root path: C:\Project\AuditManagementSystem\AuditSeverityModule
+INFO  10:11:59  Http GET Request From: AuditSeverityController
+INFO  10:12:44  Http GET Request From: AuditSeverityController
+INFO  10:32:09 Application started. Press Ctrl+C to shut down.
+INFO  10:32:09 Application started. Press Ctrl+C to shut down.
+INFO  10:32:09 Hosting environment: Development
+INFO  10:32:09 Hosting environment: Development
+INFO  10:32:09 Content root path: C:\Project\AuditManagementSystem\AuditSeverityModule
+INFO  10:32:09 Content root path: C:\Project\AuditManagementSystem\AuditSeverityModule
+INFO  10:32:09  Http GET Request From: AuditSeverityController
+INFO  10:32:09  Http POST Request From: AuditSeverityController
+INFO  10:32:09  SeverityResponse Method of SeverityProvider Called 
+INFO  10:32:09  Response Method of SeverityRepo Called 
+ERROR 10:32:15 One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+INFO  10:05:51 Application started. Press Ctrl+C to shut down.
+INFO  10:05:51 Application started. Press Ctrl+C to shut down.
+INFO  10:05:51 Hosting environment: Development
+INFO  10:05:51 Hosting environment: Development
+INFO  10:05:51 Content root path: C:\Project\AuditManagementSystem\AuditSeverityModule
+INFO  10:05:51 Content root path: C:\Project\AuditManagementSystem\AuditSeverityModule
+INFO  10:05:52  Http GET Request From: AuditSeverityController
+INFO  10:06:45  Http POST Request From: AuditSeverityController
+INFO  10:06:45  SeverityResponse Method of SeverityProvider Called 
+INFO  10:06:55  Http POST Request From: AuditSeverityController
+INFO  10:06:55  SeverityResponse Method of SeverityProvider Called 
+INFO  10:14:32 Now listening on: https://localhost:5001
+INFO  10:14:32 Now listening on: https://localhost:5001
+INFO  10:14:32 Now listening on: http://localhost:5000
+INFO  10:14:32 Now listening on: http://localhost:5000
+INFO  10:14:32 Application started. Press Ctrl+C to shut down.
+INFO  10:14:32 Application started. Press Ctrl+C to shut down.
+INFO  10:14:32 Hosting environment: Development
+INFO  10:14:32 Hosting environment: Development
+INFO  10:14:32 Content root path: C:\Users\889798\source\repos\AuditManagementSystem\AuditSeverityModule
+INFO  10:14:32 Content root path: C:\Users\889798\source\repos\AuditManagementSystem\AuditSeverityModule
+INFO  10:14:35  Http GET Request From: AuditSeverityController
+INFO  10:15:19  Http POST Request From: AuditSeverityController
+INFO  10:15:35  Http POST Request From: AuditSeverityController
+INFO  10:15:35  SeverityResponse Method of SeverityProvider Called 
+INFO  10:15:49  Http POST Request From: AuditSeverityController
+INFO  10:15:49  SeverityResponse Method of SeverityProvider Called 
+INFO  10:15:55  Http POST Request From: AuditSeverityController
+INFO  10:15:55  SeverityResponse Method of SeverityProvider Called 
+INFO  10:16:01  Http POST Request From: AuditSeverityController
+INFO  10:16:01  SeverityResponse Method of SeverityProvider Called 
+INFO  10:16:16  Http POST Request From: AuditSeverityController
+INFO  10:16:16  SeverityResponse Method of SeverityProvider Called 
+INFO  10:16:24  Http POST Request From: AuditSeverityController
+INFO  10:16:24  SeverityResponse Method of SeverityProvider Called 
+INFO  10:16:48  Http POST Request From: AuditSeverityController
+INFO  10:18:07 Now listening on: https://localhost:5001
+INFO  10:18:07 Now listening on: https://localhost:5001
+INFO  10:18:07 Now listening on: http://localhost:5000
+INFO  10:18:07 Now listening on: http://localhost:5000
+INFO  10:18:07 Application started. Press Ctrl+C to shut down.
+INFO  10:18:07 Application started. Press Ctrl+C to shut down.
+INFO  10:18:07 Hosting environment: Development
+INFO  10:18:07 Hosting environment: Development
+INFO  10:18:07 Content root path: C:\Users\889798\source\repos\AuditManagementSystem\AuditSeverityModule
+INFO  10:18:07 Content root path: C:\Users\889798\source\repos\AuditManagementSystem\AuditSeverityModule
+INFO  10:18:11  Http GET Request From: AuditSeverityController
+INFO  10:18:48  Http POST Request From: AuditSeverityController
+INFO  10:18:51  SeverityResponse Method of SeverityProvider Called 
+INFO  10:19:01  Http POST Request From: AuditSeverityController
+INFO  10:19:06  SeverityResponse Method of SeverityProvider Called 
+INFO  10:20:17 Now listening on: https://localhost:5001
+INFO  10:20:17 Now listening on: https://localhost:5001
+INFO  10:20:18 Now listening on: http://localhost:5000
+INFO  10:20:18 Now listening on: http://localhost:5000
+INFO  10:20:18 Application started. Press Ctrl+C to shut down.
+INFO  10:20:18 Application started. Press Ctrl+C to shut down.
+INFO  10:20:18 Hosting environment: Development
+INFO  10:20:18 Hosting environment: Development
+INFO  10:20:18 Content root path: C:\Users\889798\source\repos\AuditManagementSystem\AuditSeverityModule
+INFO  10:20:18 Content root path: C:\Users\889798\source\repos\AuditManagementSystem\AuditSeverityModule
+INFO  10:20:21  Http GET Request From: AuditSeverityController
+INFO  10:20:55  Http POST Request From: AuditSeverityController
+INFO  10:20:57  SeverityResponse Method of SeverityProvider Called 
+INFO  10:21:04  Http POST Request From: AuditSeverityController
+INFO  10:21:06  SeverityResponse Method of SeverityProvider Called 
+INFO  10:21:16  Http POST Request From: AuditSeverityController
+INFO  10:21:24  Http POST Request From: AuditSeverityController
+INFO  10:21:30  Http POST Request From: AuditSeverityController
+INFO  10:21:40  Http POST Request From: AuditSeverityController
+INFO  10:21:41  SeverityResponse Method of SeverityProvider Called 
+INFO  02:57:25 Now listening on: https://localhost:5001
+INFO  02:57:25 Now listening on: https://localhost:5001
+INFO  02:57:25 Now listening on: http://localhost:5000
+INFO  02:57:25 Now listening on: http://localhost:5000
+INFO  02:57:25 Application started. Press Ctrl+C to shut down.
+INFO  02:57:25 Application started. Press Ctrl+C to shut down.
+INFO  02:57:25 Hosting environment: Development
+INFO  02:57:25 Hosting environment: Development
+INFO  02:57:25 Content root path: C:\Users\889798\source\repos\AuditManagementSystem\AuditSeverityModule
+INFO  02:57:25 Content root path: C:\Users\889798\source\repos\AuditManagementSystem\AuditSeverityModule
+INFO  02:58:01  Http GET Request From: AuditSeverityController
+INFO  03:07:58  Http POST Request From: AuditSeverityController
+INFO  03:08:50  SeverityResponse Method of SeverityProvider Called 
+ERROR 03:09:27 Object reference not set to an instance of an object.
+ERROR 03:09:27 Value cannot be null. (Parameter 'entity')
+INFO  03:10:15  Http POST Request From: AuditSeverityController
+INFO  03:10:17  SeverityResponse Method of SeverityProvider Called 
+INFO  03:12:59  Http POST Request From: AuditSeverityController
+INFO  03:13:02  SeverityResponse Method of SeverityProvider Called 
+INFO  03:14:50  Http POST Request From: AuditSeverityController
+INFO  09:35:31 Now listening on: https://localhost:5001
+INFO  09:35:31 Now listening on: https://localhost:5001
+INFO  09:35:31 Now listening on: http://localhost:5000
+INFO  09:35:31 Now listening on: http://localhost:5000
+INFO  09:35:31 Application started. Press Ctrl+C to shut down.
+INFO  09:35:31 Application started. Press Ctrl+C to shut down.
+INFO  09:35:31 Hosting environment: Development
+INFO  09:35:31 Hosting environment: Development
+INFO  09:35:31 Content root path: C:\Project\New\AuditManagementSystem\AuditManagementSystem\AuditSeverityModule
+INFO  09:35:31 Content root path: C:\Project\New\AuditManagementSystem\AuditManagementSystem\AuditSeverityModule
+INFO  09:35:40  Http GET Request From: AuditSeverityController
+INFO  09:39:30  Http POST Request From: AuditSeverityController
+INFO  09:39:43  Http POST Request From: AuditSeverityController
+INFO  09:39:48  SeverityResponse Method of SeverityProvider Called 
+INFO  09:46:48 Now listening on: https://localhost:5001
+INFO  09:46:48 Now listening on: https://localhost:5001
+INFO  09:46:48 Now listening on: http://localhost:5000
+INFO  09:46:48 Now listening on: http://localhost:5000
+INFO  09:46:48 Application started. Press Ctrl+C to shut down.
+INFO  09:46:48 Application started. Press Ctrl+C to shut down.
+INFO  09:46:48 Hosting environment: Development
+INFO  09:46:48 Hosting environment: Development
+INFO  09:46:48 Content root path: C:\Project\New\AuditManagementSystem\AuditManagementSystem\AuditSeverityModule
+INFO  09:46:48 Content root path: C:\Project\New\AuditManagementSystem\AuditManagementSystem\AuditSeverityModule
+INFO  09:47:00  Http GET Request From: AuditSeverityController
+INFO  09:47:30  Http POST Request From: AuditSeverityController
+INFO  09:47:31  SeverityResponse Method of SeverityProvider Called 
+INFO  10:41:57 Now listening on: https://localhost:5001
+INFO  10:41:57 Now listening on: https://localhost:5001
+INFO  10:41:57 Now listening on: http://localhost:5000
+INFO  10:41:57 Now listening on: http://localhost:5000
+INFO  10:41:57 Application started. Press Ctrl+C to shut down.
+INFO  10:41:57 Application started. Press Ctrl+C to shut down.
+INFO  10:41:57 Hosting environment: Development
+INFO  10:41:57 Hosting environment: Development
+INFO  10:41:57 Content root path: C:\Project\New\AuditManagementSystem\AuditManagementSystem\AuditSeverityModule
+INFO  10:41:57 Content root path: C:\Project\New\AuditManagementSystem\AuditManagementSystem\AuditSeverityModule
+INFO  10:42:07  Http GET Request From: AuditSeverityController
+INFO  10:43:48  Http POST Request From: AuditSeverityController
+INFO  10:43:49  SeverityResponse Method of SeverityProvider Called 
+INFO  10:46:51  Http POST Request From: AuditSeverityController
+INFO  10:46:51  SeverityResponse Method of SeverityProvider Called 
+INFO  11:04:44  Http POST Request From: AuditSeverityController
+INFO  11:04:44  SeverityResponse Method of SeverityProvider Called 
+INFO  11:23:06 Now listening on: https://localhost:5001
+INFO  11:23:06 Now listening on: https://localhost:5001
+INFO  11:23:06 Now listening on: http://localhost:5000
+INFO  11:23:06 Now listening on: http://localhost:5000
+INFO  11:23:06 Application started. Press Ctrl+C to shut down.
+INFO  11:23:06 Application started. Press Ctrl+C to shut down.
+INFO  11:23:06 Hosting environment: Development
+INFO  11:23:06 Hosting environment: Development
+INFO  11:23:06 Content root path: C:\Project\New\AuditManagementSystem\AuditManagementSystem\AuditSeverityModule
+INFO  11:23:06 Content root path: C:\Project\New\AuditManagementSystem\AuditManagementSystem\AuditSeverityModule
+INFO  11:23:14  Http GET Request From: AuditSeverityController
+INFO  11:23:30  Http POST Request From: AuditSeverityController
+INFO  11:23:31  SeverityResponse Method of SeverityProvider Called 
+INFO  11:23:52  Http POST Request From: AuditSeverityController
+INFO  11:23:52  SeverityResponse Method of SeverityProvider Called 
+INFO  01:21:08 Now listening on: https://localhost:5001
+INFO  01:21:08 Now listening on: https://localhost:5001
+INFO  01:21:08 Now listening on: http://localhost:5000
+INFO  01:21:08 Now listening on: http://localhost:5000
+INFO  01:21:08 Application started. Press Ctrl+C to shut down.
+INFO  01:21:08 Application started. Press Ctrl+C to shut down.
+INFO  01:21:08 Hosting environment: Development
+INFO  01:21:08 Hosting environment: Development
+INFO  01:21:08 Content root path: C:\Project\New\AuditManagementSystem\AuditManagementSystem\AuditSeverityModule
+INFO  01:21:08 Content root path: C:\Project\New\AuditManagementSystem\AuditManagementSystem\AuditSeverityModule
+INFO  01:21:12  Http GET Request From: AuditSeverityController
+INFO  01:21:25  Http POST Request From: AuditSeverityController
+INFO  01:21:30  SeverityResponse Method of SeverityProvider Called 
